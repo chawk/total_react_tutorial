@@ -1,6 +1,6 @@
 ## Total React Tutorial
 
-Welcome to the Total React Tutorial using TypeScript, written by d-cipher. The purpose of this tutorial is to go over React and how to get started with it.
+Welcome to the Total React Tutorial using TypeScript. The purpose of this tutorial is to go over React and how to get started with it.
 
 ### Objective
 Once set up, we should have a good understanding of how to use React with TypeScript. We will be able load up a webpage built using react.
